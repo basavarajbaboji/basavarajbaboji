@@ -106,8 +106,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=basavarajbaboji&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basavarajbaboji&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=basavarajbaboji&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=basavarajbaboji&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
 
 <br><br>
 
@@ -117,11 +117,11 @@
 
 ---
 
-## 🐍 Contribution Game
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/basavarajbaboji/basavarajbaboji/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+<img src="https://ghchart.rshah.org/58A6FF/basavarajbaboji" alt="Basavaraj Baboji GitHub Contribution Chart" />
 
 </div>
 
