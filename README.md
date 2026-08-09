@@ -2,18 +2,17 @@
 
 # ⚡ BASAVARAJ BABOJI
 
-### `Founder & Builder @ Megnix AI`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+AI+that+acts%2C+not+just+chats.;Autonomous+desktop+AI+%7C+Rust+%7C+Agents;Local-first+AI+%7C+Automation+%7C+Vision+%7C+Voice;Turning+ideas+into+working+systems." alt="Typing animation" />
-
-<br>
+### **Founder & Lead Systems Architect @ Megnix AI**
 
 <a href="https://github.com/basavarajbaboji">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Local-First+AI+Systems;Autonomous+Desktop+Agents+in+Rust;Voice+%2B+Vision+%2B+OS+Automation;Turning+Ideas+Into+Engineered+Reality" alt="Typing animation" />
 </a>
-<a href="https://github.com/basavarajbaboji">
-<img src="https://img.shields.io/badge/Megnix_AI-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
-</a>
+
+<br><br>
+
+[![Status](https://img.shields.io/badge/Status-🟢_Building_Megnix_AI-0D1117?style=for-the-badge&labelColor=161B22&color=58A6FF)](https://github.com/basavarajbaboji)
+[![Stack](https://img.shields.io/badge/Core-Rust_%7C_Tauri_%7C_AI_Agents-0D1117?style=for-the-badge&labelColor=161B22&color=238636)](https://github.com/basavarajbaboji)
+[![Platform](https://img.shields.io/badge/Environment-Windows_Native-0D1117?style=for-the-badge&labelColor=161B22&color=8957E5)](https://github.com/basavarajbaboji)
 
 </div>
 
@@ -21,210 +20,151 @@
 
 ## 🧠 `whoami`
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│ BASAVARAJ BABOJI                                             │
-│                                                              │
-│ > Founder & Builder                                         │
-│ > Building: Megnix AI                                       │
-│ > Focus: AI agents, systems, automation & local AI           │
-│ > Main language: Rust                                       │
-│ > Environment: Windows / Tauri / native tooling              │
-│                                                              │
-│ Mission:                                                     │
-│ Build AI systems that can understand, reason, use tools,     │
-│ and actually operate the computer.                           │
-└──────────────────────────────────────────────────────────────┘
-```
+> **Founder & AI Systems Engineer** building local-first agentic infrastructure, autonomous desktop execution engines, and high-performance Rust runtimes.
+>
+> 🎯 **Mission:** Build AI that moves beyond chat interfaces—systems that reason, execute tools, observe OS environments, and perform reliable real-world actions.
 
-## 🚀 Currently Building
+---
+
+## 🚀 Flagship Architecture — MEGNIX AI
 
 <div align="center">
 
 # **MEGNIX AI**
-
 ### `AI THAT ACTS, NOT JUST CHATS.`
 
-**Autonomous desktop AI with local-first intelligence, tool execution, voice, vision, web capabilities and agent orchestration.**
+**Autonomous Desktop Agent Engine with Local-First Intelligence, Native Tool Execution, Voice, Vision & Web Grounding.**
 
 </div>
 
 ```text
-                     ┌──────────────────────┐
-                     │      MEGNIX AI       │
-                     │   Agentic Desktop    │
-                     └──────────┬───────────┘
-                                │
-       ┌────────────────────────┼────────────────────────┐
-       ▼                        ▼                        ▼
- ┌─────────────┐        ┌─────────────┐        ┌─────────────┐
- │    BRAIN    │        │    TOOLS    │        │   MEMORY    │
- │ LLM / RAG   │        │ OS / Web    │        │ State /     │
- │ Agents      │        │ Files / UI  │        │ Sessions    │
- └─────────────┘        └─────────────┘        └─────────────┘
-       │                        │                        │
-       └────────────────────────┼────────────────────────┘
-                                ▼
-                     ┌──────────────────────┐
-                     │   REAL WORLD ACTION  │
-                     │  Execute • Observe   │
-                     │  Verify • Continue   │
-                     └──────────────────────┘
+                     ┌────────────────────────────────┐
+                     │          MEGNIX AI             │
+                     │    Agentic Desktop Runtime     │
+                     └───────────────┬────────────────┘
+                                     │
+       ┌─────────────────────────────┼─────────────────────────────┐
+       ▼                             ▼                             ▼
+ ┌─────────────┐               ┌─────────────┐               ┌─────────────┐
+ │    BRAIN    │               │    TOOLS    │               │   MEMORY    │
+ │ LLM / RAG   │               │ OS / Web    │               │ Canonical   │
+ │ Agents      │               │ Files / UI  │               │ State Store │
+ └──────┬──────┘               └──────┬──────┘               └──────┬──────┘
+        │                             │                             │
+        └─────────────────────────────┼─────────────────────────────┘
+                                      ▼
+                     ┌────────────────────────────────┐
+                     │       REAL WORLD ACTION        │
+                     │  Execute • Observe • Verify    │
+                     └────────────────────────────────┘
 ```
 
-### 🔧 What I'm Working On
+### ⚙️ Core Engineering Modules
 
-| 🧩 System | ⚙️ Focus |
-|---|---|
-| 🤖 **AI Agents** | Dynamic orchestration & task execution |
-| 🖥️ **Desktop Control** | Windows automation, terminal & native APIs |
-| 🧠 **Memory** | Canonical state, sessions & task context |
-| 👁️ **Vision** | OCR, screen understanding & browser interaction |
-| 🎙️ **Voice** | Local STT/TTS & conversational interaction |
-| 🌐 **Web** | Search, browser automation & web grounding |
-| 🦀 **Core** | Rust + Tauri native architecture |
-| 🔌 **Providers** | Local models, APIs & custom endpoints |
+| Module | Stack | Primary Focus |
+| :--- | :--- | :--- |
+| 🦀 **Core Engine** | `Rust` · `Tauri v2` · `Tokio` | Low-latency async IPC, process supervision & OS API bindings |
+| 🤖 **Agentic Brain** | `LLM Providers` · `Function Calling` | Dynamic planning, task decomposition & state machine execution |
+| 👁️ **Vision Grounding** | `OpenCV` · `PP-OCR` · `Screen Analysis` | Real-time screen element detection, UI parsing & spatial positioning |
+| 🎙️ **Duplex Voice** | `Whisper ONNX` · `Kokoro TTS` | Zero-latency local speech-to-text, streaming audio & voice interaction |
+| 🌐 **Web Automation** | `JavaScript` · `CDP / Playwright` | Headless browser execution, DOM manipulation & web synthesis |
+| 🔐 **Local-First Memory** | `SQLite` · `Vector Index` | Encrypted session logs, task history & context retrieval |
 
 ---
 
-## 🛠️ My Stack
+## 🛠️ Technical Stack Matrix
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=rust,python,js,html,css,git,github,windows,vscode" />
+### **Systems & Core Runtimes**
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Tauri-FFC107?style=for-the-badge&logo=tauri&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+
+<br>
+
+### **AI, Vision & Voice Stack**
+<img src="https://img.shields.io/badge/LLM_Agents-58A6FF?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Computer_Vision-005555?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Whisper_STT-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+
+<br>
+
+### **Platform & Tooling**
+<img src="https://img.shields.io/badge/Windows_APIs-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+
+</div>
+
+---
+
+## 📊 Live GitHub Command Center
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=basavarajbaboji&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&include_all_commits=true" alt="Basavaraj's GitHub Stats" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=basavarajbaboji&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top Languages" />
 
 <br><br>
 
-`Rust` · `Tauri` · `Python` · `JavaScript` · `Windows APIs`<br>
-`LLMs` · `AI Agents` · `Computer Vision` · `OCR` · `Automation`
+<img src="https://streak-stats.demolab.com?user=basavarajbaboji&theme=github-dark-blue&hide_border=true" alt="Streak Stats" />
 
 </div>
 
 ---
 
-## 📊 GitHub Command Center
+## 📈 Activity & Contribution Heatmap
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=basavarajbaboji&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=basavarajbaboji&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=basavarajbaboji&theme=github-dark-blue&hide_border=true" />
+<img src="https://ghchart.rshah.org/58A6FF/basavarajbaboji" alt="Basavaraj Baboji Contribution Heatmap" />
 
 </div>
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/58A6FF/basavarajbaboji" alt="Basavaraj Baboji GitHub Contribution Chart" />
-
-</div>
-
-> The green squares are no longer just a graph. They're a little record of the things that actually got built.
+> *"Continuous progress recorded directly on the grid. Build → Verify → Iterate."*
 
 ---
 
-## 💻 Developer Mode
+## 💻 Developer Workstation
 
 ```text
-┌─[ basavaraj@megnix ]─[ ~/projects ]───────────────────────────┐
-│                                                              │
-│  $ neofetch                                                  │
-│                                                              │
-│  OS       : Windows                                         │
-│  Shell    : PowerShell / Terminal                           │
-│  Core     : Rust                                             │
-│  UI       : Tauri                                            │
-│  AI       : Local + Cloud                                    │
-│  Mission  : Build systems, not demos                         │
-│                                                              │
-│  $ cargo build --release                                     │
-│  > compiling megnix...                                       │
-│  > linking agent runtime...                                  │
-│  > loading tools...                                          │
-│  > ready.                                                    │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+┌─[ basavaraj@megnix-workstation ]─[ ~/projects/megnix ]─────────────┐
+│                                                                     │
+│  $ neofetch --system                                                │
+│                                                                     │
+│  OS       : Windows 11 Pro (x86_64)                                │
+│  Runtime  : Rust 1.80+ / Tokio Async Reactor                        │
+│  UI Core  : Tauri v2 Native Bridge                                  │
+│  AI Engine: Local ONNX / GGUF Runtimes + Cloud Duplex               │
+│  Target   : Autonomous Desktop Intelligence                         │
+│                                                                     │
+│  $ cargo build --release                                            │
+│  > [1/4] Compiling megnix-core (Rust)...                            │
+│  > [2/4] Linking Tauri IPC & Native Hooks...                        │
+│  > [3/4] Initializing Vision & Speech Workers...                    │
+│  > [4/4] Status: 🟢 Engine Compiled Successfully.                   │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## ⭐ Featured Work
+## 🌐 Connect & Media
 
 <div align="center">
 
-<a href="https://github.com/basavarajbaboji">
-  <img src="https://img.shields.io/badge/⚡_MEGNIX_AI-Autonomous_Desktop_AI-0D1117?style=for-the-badge&logo=rust&logoColor=58A6FF&labelColor=161B22" alt="Megnix AI Banner" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/basavarajbaboji)
+[![Megnix AI](https://img.shields.io/badge/Megnix_AI-Official_Project-58A6FF?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/basavarajbaboji)
 
 <br><br>
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│ 🚀 Megnix AI (Flagship Project)                               │
-│                                                              │
-│  • Agentic Desktop Automation powered by Rust & Tauri        │
-│  • Local-First Voice, Vision & Tool Execution Engine         │
-│  • Privately Developed & Engineered for Real-World Action    │
-└──────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## 🎯 What I Care About
-
-```text
-AI
- ├── reasoning
- ├── agents
- ├── local models
- └── useful automation
-
-SYSTEMS
- ├── Rust
- ├── native Windows
- ├── performance
- └── reliability
-
-PRODUCT
- ├── real users
- ├── simple interfaces
- ├── privacy
- └── turning prototypes into products
-```
-
----
-
-## 📈 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=basavarajbaboji&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" />
-
-</div>
-
----
-
-## 🌐 Find Me
-
-<div align="center">
-
-<a href="https://github.com/basavarajbaboji">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://github.com/basavarajbaboji">
-<img src="https://img.shields.io/badge/Megnix_AI-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-### `Build → Break → Learn → Rebuild → Ship.` ⚙️
+### **`Build → Break → Learn → Rebuild → Ship.`** ⚙️
 
 </div>
