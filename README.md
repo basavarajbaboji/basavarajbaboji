@@ -7,14 +7,14 @@
 <br /><br />
 
 <a href="https://github.com/basavarajbaboji/megnix-ai">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1400&color=58A6FF&center=true&vCenter=true&width=780&lines=Jarvis-Inspired+Local+AI+Agent+-+Rust+%2B+Tauri+v2;7-Crate+X25519+%2B+AES-GCM+Mobile+Mesh;Cloudflare+Workers+%2B+Ed25519+Licensing+Engine;Solo+Builder+%C2%B7+Shipping+Real+Desktop+Systems" alt="Systems engineering highlights" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1400&color=58A6FF&center=true&vCenter=true&width=790&lines=Jarvis-Inspired+Local+AI+Agent+-+Rust+%2B+Tauri+v2;7-Crate+X25519+%2B+AES-GCM+Mobile+Mesh;Cloudflare+Workers+%2B+Ed25519+Licensing+Engine;FKCCI+Inno-MANTHAN+18th+Ed+%C2%B7+9th+Place+%26+INR+70K+Seed+Funded" alt="Systems engineering highlights" />
 </a>
 
 <br /><br />
 
 [![Flagship: Megnix AI](https://img.shields.io/badge/Flagship-Megnix_AI-1F6FEB?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/basavarajbaboji/megnix-ai)
+[![FKCCI Inno-MANTHAN 18th Ed](https://img.shields.io/badge/FKCCI_Inno--MANTHAN_18th_Ed-9th_Place_%C2%B7_%E2%82%B970K_Seed-D97706?style=for-the-badge)](https://github.com/basavarajbaboji/megnix-ai)
 [![7-Crate Rust + Tauri v2](https://img.shields.io/badge/Architecture-7_Rust_Crates_%2B_Tauri_v2-0D1117?style=for-the-badge&labelColor=161B22&color=3FB950)](https://github.com/basavarajbaboji/megnix-ai)
-[![Based in Karnataka, India](https://img.shields.io/badge/Karnataka,_India-Solo_Builder-0D1117?style=for-the-badge&labelColor=161B22&color=8957E5)](https://github.com/basavarajbaboji?tab=repositories)
 
 </div>
 
@@ -23,10 +23,11 @@
 ## `whoami`
 
 ```yaml
-role:       Solo Builder & Systems Engineer
-project:    Megnix AI (Rust + Tauri v2 Desktop AI Agent, Mobile Mesh & Ed25519 Licensing)
-focus:      Local-First AI Agents · Win32 Automation · Applied Cryptography · Edge Backends
-philosophy: "AI should move beyond text boxes — execute safely inside real shells, apps, and devices."
+role:        Founder & Systems Engineer (Solo, Bootstrapped)
+project:     Megnix AI (Rust + Tauri v2 Desktop AI Agent, Mobile Mesh & Ed25519 Licensing)
+recognition: 9th Place Winner & ₹70,000 Seed Funding — FKCCI Inno-MANTHAN (18th Edition), Bengaluru
+focus:       Local-First AI Agents · Win32 Automation · Applied Cryptography · Edge Backends
+philosophy:  "AI should move beyond text boxes — execute safely inside real shells, apps, and devices."
 ```
 
 ---

@@ -46,10 +46,10 @@
   <!-- Top status row -->
   <circle cx="42" cy="34" r="4.5" fill="#3FB950" />
   <circle cx="42" cy="34" r="8" fill="#3FB950" fill-opacity="0.22" />
-  <text x="56" y="38" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="1.2">SOLO BUILDER &amp; SYSTEMS ENGINEER // KARNATAKA, INDIA</text>
+  <text x="56" y="38" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="1.1">FOUNDER &amp; SYSTEMS ENGINEER // BENGALURU, KARNATAKA</text>
 
-  <rect x="594" y="21" width="210" height="25" rx="12.5" fill="#161B22" stroke="#30363D" stroke-width="1" />
-  <text x="699" y="37.5" text-anchor="middle" fill="#79C0FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="0.8">RUST · TAURI v2 · EDGE</text>
+  <rect x="530" y="21" width="274" height="25" rx="12.5" fill="#161B22" stroke="#D97706" stroke-opacity="0.7" stroke-width="1" />
+  <text x="667" y="37.5" text-anchor="middle" fill="#FBBF24" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.2" font-weight="700" letter-spacing="0.5">FKCCI INNO-MANTHAN · 9TH · INR 70K SEED</text>
 
   <!-- Name and accent underline -->
   <text x="36" y="92" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="36" font-weight="800" letter-spacing="0.6">BASAVARAJ BABOJI</text>
@@ -57,7 +57,7 @@
 
   <!-- Tagline -->
   <text x="36" y="135" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="500">Creator of <tspan fill="#58A6FF" font-weight="700">Megnix AI</tspan> — Jarvis-Inspired Local AI Agent, E2E Encrypted Mobile Mesh</text>
-  <text x="36" y="156" fill="#9DA7B3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="400">&amp; Cloudflare Workers Ed25519 Licensing Infrastructure written in Rust &amp; TypeScript.</text>
+  <text x="36" y="156" fill="#9DA7B3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.8" font-weight="400">&amp; Cloudflare Ed25519 Licensing Stack. 9th Place &amp; Seed Funded at FKCCI Inno-MANTHAN (18th Ed).</text>
 
   <!-- Architecture pills -->
   <rect x="36" y="178" width="178" height="28" rx="8" fill="#161B22" stroke="#1F6FEB" stroke-opacity="0.55" stroke-width="1" />
